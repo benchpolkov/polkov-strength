@@ -1,0 +1,48 @@
+fGymm 1.6.2, 2017-04-23
+------------------------
+- update slider height
+- change default slider images
+- update section pro: remove require_once include
+- bug fixes
+
+fGymm 1.6.1, 2017-01-07
+------------------------
+- add full-width page template
+- add 3 homepage widget areas
+
+fGymm 1.6.0, 2016-11-06
+------------------------
+- add custom logo
+- add new social icons
+- add 3 columns footer widget areas
+- bug fixes
+
+fGymm 1.5.1, 2016-07-10
+------------------------
+- update tags in style.css
+
+fGymm 1.5.0, 2016-01-16
+------------------------
+- FontAwesome update
+- Design improvement
+- bug fixes
+
+fGymm 1.4.0, 2015-10-11
+------------------------
+- Full theme rewrite to use customizer instead of a parent theme tkidd
+
+fGymm 1.3.0, 2015-05-23
+------------------------
+- bug fixes
+
+fGymm 1.0.2, 2015-05-02
+------------------------
+- small bug fixes
+
+fGymm 1.0.1, 2015-04-17
+------------------------
+- Fix issue with text domain loading
+
+fGymm 1.0.0, 2014-09-27
+------------------------
+- Initial release
